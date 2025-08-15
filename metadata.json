@@ -1,0 +1,5 @@
+{
+  "name": "OSINT Analysis Assistant",
+  "description": "An advanced OSINT (Open-Source Intelligence) analysis assistant powered by the Gemini API. It processes information about individuals or entities from public sources and generates structured reports, timelines, and relationship graphs.",
+  "requestFramePermissions": []
+}
